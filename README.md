@@ -1,5 +1,7 @@
 # facebook_app_events
 
+# ref: fix/iOS-issue-0.19.4版本，修复在iOS真机运行报错，现分支为ref: 3e4e062ded3eb92b37e43c274ee84da4a21edfa2
+
 [![pub package](https://img.shields.io/pub/v/facebook_app_events.svg)](https://pub.dartlang.org/packages/facebook_app_events)
 
 Flutter plugin for [Facebook App Events](https://developers.facebook.com/docs/app-events).
